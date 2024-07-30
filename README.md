@@ -2,5 +2,3 @@
 hello good morning
 welcome tiger
 welcome to git
-good 
-welcome to git
